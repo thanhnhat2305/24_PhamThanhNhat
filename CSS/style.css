@@ -1,0 +1,10 @@
+.text-in-col-xs-12{
+    position: relative;
+    text-align: center;
+    float:right;
+    padding-left: 200px;
+}
+
+.img-logo{
+    position: absolute;
+}
